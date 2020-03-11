@@ -1,4 +1,15 @@
-img{
-    opacity: 60%;
+body {
+  background-color: #e7b6bd;
 }
 
+img{
+    opacity: 90%;
+}
+
+.image3{
+    opacity: 100%;
+}
+
+.image4{
+    opacity: 50%;
+}
