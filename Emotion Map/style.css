@@ -46,7 +46,7 @@ svg{
 #containerscroll{
     transform: rotate(90deg) translateY(-100vh);
     transform-origin: top left;
-    white-space:nowrap;
+    white-space: nowrap;
 }
 
 
