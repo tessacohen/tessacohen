@@ -34,8 +34,19 @@ body {
     width: 100%;
     position: absolute;
     z-index: -10;
-    transform: translateY(-80px);
+    transform: translateY(-140px);
     opacity: 30%;
+    padding: 0px 0 0 0px;
+}
+
+.imagePlaceHolder {
+    width: auto;
+    position: fixed;
+}
+
+.animationSection {
+    width: 20%;
+    height: 1700px;
 }
 
 .chapter {
