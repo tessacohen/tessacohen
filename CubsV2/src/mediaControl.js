@@ -34,7 +34,7 @@ let optionsImageSequence_1 = {
 }
 
 // Create an instance of the your image sequence
-let marathon = new ImageSequence(optionsImageSequence_);
+let marathon = new ImageSequence(optionsImageSequence_1);
 
 // Add your animation to the main sequences
 mainSequences.push(marathon)
